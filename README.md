@@ -13,9 +13,9 @@
 
 <p align="center">
   <samp>
-    Before that, I designed for GitHub for 6+ years.
-    <br>It was here where I grew up, developed my opinions,
-    <br>and became a GitHub maxi.
+    Beyond coding, I enjoy reading and exploring the vibrant tech scene in Bangalore. 
+    <br>Let's connect and collaborate on exciting data-driven projects together! 🚀,
+    <br>.....
   </samp>
 </p>
 
@@ -33,24 +33,24 @@
 </p>
 
 <details>
-  <summary><b>:telescope: 2023 goal</b></summary>
+  <summary><b>:telescope: My WORK </b></summary>
   Currently, I'm working on some ML/Data Analytics Projects to explore new insights and develop predictive models.
 </details>
 
 <details>
-  <summary><b>:cyclone: 2022 goal</b></summary>
+  <summary><b>:cyclone: Long BACK </b></summary>
    In 2021, my objective was to embark on a journey of learning and exploration in the realms of machine learning and natural language processing (NLP). Although this endeavor remains a work in progress, I'm pleased to have made notable advancements within the domains of LLms and the OpenAI ecosystem. 😌
 </details>
 
 <details>
-  <summary><b>:sparkles: 2021 goal</b></summary>
+  <summary><b>:sparkles: My GOALS</b></summary>
   ✨ <strong><a href="https://prettygood.club/">I DID IT!</a></strong> ✨ I <i>finally</i> focused on a body of work in pottery. I'm damn proud. Going to keep it up, but slowly. :)<br><br>
   <i>I didn't complete my 2020 goal, but it was a crazy different year 😂 In 2021, I have finally started learning more in the field of Data Science. Here's to new aspirations and forgiving yourself for not finishing every goal you set for yourself for the new year.</i>
 </details>
 
 <details>
-  <summary><b>:skull: 2020 goal</b></summary>
-  During 2023, I pursued a PG Diploma in Big Data Analytics, gaining extensive knowledge and expertise in various facets, such as data preprocessing, machine learning algorithms, natural language processing, data visualization, and predictive modeling. Additionally, I acquired proficiency in MySQL, Linux, and various big data technologies, further enhancing my skill set in the field of data science.
+  <summary><b>:skull: Background </b></summary>
+  During 2022, I pursued a PG Diploma in Big Data Analytics, gaining extensive knowledge and expertise in various facets, such as data preprocessing, machine learning algorithms, natural language processing, data visualization, and predictive modeling. Additionally, I acquired proficiency in MySQL, Linux, and various big data technologies, further enhancing my skill set in the field of data science.
 </details>
 <!---
 aishwaryaa-01/aishwaryaa-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
