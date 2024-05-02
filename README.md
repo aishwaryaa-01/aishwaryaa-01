@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Hi! I'm currently working CDAC Bangalore,
+    Hi! I'm currently working at CDAC Bangalore,
     <br> With a passion for data science, I'm deeply involved in machine learning and data analytics projects.
   </samp>
 </p>
